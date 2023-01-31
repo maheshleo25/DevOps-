@@ -1,0 +1,10 @@
+................WORKFLOW OF JENKINS...............
+1.we can attach git,Maven ,selenium and artifatory plugin to jenkins.
+
+2.Once developer puts code in github,jenkins pull that code & send to maven for build.
+
+3.once build is done, jenkins pull that code and send to selenium for testing 
+
+4.once testing is done, then jenkins pull that code and  send to artifactory as per requirement and so on
+
+5.wen can also deploy with jenkins.
