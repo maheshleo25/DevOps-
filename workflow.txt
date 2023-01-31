@@ -7,4 +7,4 @@
 
 4.once testing is done, then jenkins pull that code and  send to artifactory as per requirement and so on
 
-5.wen can also deploy ans deliver with jenkins.
+5.wen can also deploy and deliver with jenkins.
