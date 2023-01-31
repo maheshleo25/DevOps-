@@ -1,15 +1,18 @@
 ..............Advantages of jenkins...............
 1.it has lots of plugins available
 
-2.you can write your own plugin
+2.you can write your own plugin in jenkins
 
 3.you can use community plugin 
 
-4.jenkins is not just a tools .it is a framework
-i.e you can do whatever you want all you need is plugin.
+4.jenkins is not just a tools .it is a framework i.e. you can do whatever you want all you need is plugin.
 
 5.we can attach slaves (node)to jenkins master. it instruct other (slaves) to do job. if slaves are not available ,jenkins itself does the job.
 
 6.jenkins also behave as crone server Replacement i.e. can do Scheduled task.
 
 7.it can create labels.
+
+8.it is free of cost.
+
+9. it is portable to all the major platforms. 
