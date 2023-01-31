@@ -1,0 +1,14 @@
+ jenkins is free there are such simillar tools like (Bamboo tools,build bot,travis CI). 
+1.jenkins is an open source project written in Java.
+2.jenkins that run on windows,macOS and other Unix OP. "its Run 8080 port number".
+3.it is free community Supported and it supports lot of plugins 
+4.jenkins automate the entire software development life cycle.
+5.jenkins was originally development sun microSystem in 2004 under the name hudson.(project)
+6.The project was later named jenkins when oracle bought  microsystems.
+7.it can run on any major platform without any compatibilty.
+
+
+8. whenever developers write,we integrate all that code of all developer at that point of time and we  build test and developer/ deploy to the client this process is called CI/CD.
+9.jenkins helps us to achieve this .
+
+10.Because of CI, nows bugs will be reported fast and get rectified fast So the entire Software development happens fast.
